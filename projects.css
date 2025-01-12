@@ -96,9 +96,9 @@ body {
   @media (max-width: 780px) {
     .container {
         grid-template-columns: 1fr; 
-        grid-template-rows: auto minmax(300, 1fr);
-        margin-top: 20px;
-        padding-top: 80px;
+        grid-template-rows: auto;
+        margin-top: 120px;
+        width: 80%;
     }
 }
   
