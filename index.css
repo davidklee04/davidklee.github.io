@@ -18,7 +18,7 @@ body {
     border-radius: 20px;
     background: #8f1e1e;
     position: relative;
-    animation: fly 3s ease-in-out;
+    animation: fly 2.5s ease-in;
     transition: all 500ms ease;
     overflow: hidden;
 
